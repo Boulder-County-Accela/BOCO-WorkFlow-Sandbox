@@ -24,7 +24,6 @@ var runEvent = true; // set to true to simulate the event and run all std choice
 try {
 	showDebug = true;
 
-
 	}
 catch (err) {
 	handleError(err,"SCRIPT_TEST");
